@@ -2,4 +2,4 @@
 
 Bert based sentiment analysis tutorial
 
-practice for 2022 서강대학교 캡스톤디자인1 class, by 오정렬
+practice for 2022 서강대학교 캡스톤디자인1, by 오정렬
